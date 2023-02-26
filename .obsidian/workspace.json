@@ -11,8 +11,12 @@
             "id": "c9186044dec21e87",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "rua！！/人设/芙兰喵～.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "rua！！/人设/芙兰喵～.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "rua！！/人设/芙兰喵～.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "rua！！/人设/芙兰喵～.md"
+              }
             }
           },
           {
@@ -149,6 +157,11 @@
   },
   "active": "c9186044dec21e87",
   "lastOpenFiles": [
+    "rua！！/人设/qwq.md",
+    "home/fulan/Pictures/ShaftImages/2023_104443413.png.md",
+    "home/fulan/Pictures/ShaftImages.md",
+    "home/fulan 1.md",
+    "home/fulan.md",
     "未命名.canvas"
   ]
 }
