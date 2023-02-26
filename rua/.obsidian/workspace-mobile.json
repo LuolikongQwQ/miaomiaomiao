@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "f0bc10d9f10c8721",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad2125d6266d621f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2ff515459d88e9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人设/芙兰喵～.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "663bc49c9ac81e31",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fe3d6b299fc6b074",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a2c0774b38317d07",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0c0035f9f9045019",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "0373985e8eee9552",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "5be2fcebcb3dc141",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d95f5e589c741a6d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "人设/芙兰喵～.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b8f09438baef36fa",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "人设/芙兰喵～.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "3b9ea75950805905",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "人设/芙兰喵～.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d2ff515459d88e9d",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "人设/芙兰喵～.md"
+  ]
+}
